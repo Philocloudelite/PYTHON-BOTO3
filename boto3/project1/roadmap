@@ -1,0 +1,16 @@
+
+Use boto3 module either client or recourse object 
+Create a function that would:
+Create 3 ec2 instances:
+
+Next: create a function to describe those instances. Get the instance id. Image id, instance type, running state, launch time, and instance arn and use a csv module to load those information inside
+
+Next: using waiter concept to stop, start and terminate instances
+
+Next: create another function:
+That would filter and list instances in us-east-1a 
+NOT: try to catch any exception is any:
+Please call me if your task isn’t understood
+
+
+
